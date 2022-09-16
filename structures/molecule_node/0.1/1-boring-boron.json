@@ -1,0 +1,18 @@
+{
+  "hqschema": {
+    "label": "molecule_node",
+    "version": "0.1"
+  },
+  "label": "Boring Boron atom",
+  "description": "test",
+  "atoms": [
+    {
+      "symbol": "B",
+      "position": [
+        5,
+        5,
+        5
+      ]
+    }
+  ],
+}
